@@ -1,0 +1,31 @@
+# node_modules
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# Environment
+.env
+.env.local
+.env.*.local
+debug.log
+*.log
+
+# Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Compiler
+Main.class
+backend/temp_executions/
+backend/Main.class
+backend/solution.class
+backend/tmp_test.js
+backend/wipe_problems.js
+backend/create_admin.js
+backend/debug.log
